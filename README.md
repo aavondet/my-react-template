@@ -1,1 +1,1 @@
-# my-react-template
+### React Template
